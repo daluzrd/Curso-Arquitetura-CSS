@@ -1,0 +1,12 @@
+.rodape-conteudo {
+	position: absolute;
+	right: 2rem;
+}
+
+.rodape-conteudo > p {
+	vertical-align: middle;
+	line-height: 0;
+	display: inline-block;
+	margin: 0 0.5rem;
+    color: #FEFEFE;
+}

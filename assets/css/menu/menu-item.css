@@ -1,0 +1,13 @@
+.menu-item {
+	display: inline;
+	margin: 0 1.25rem;
+}
+
+.menu-item:hover {
+	text-decoration: underline;
+}
+
+.menu-item:last-child {
+	display: inline-block;
+	margin-right: 0;
+}

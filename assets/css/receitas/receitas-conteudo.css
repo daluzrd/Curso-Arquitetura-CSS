@@ -1,0 +1,16 @@
+.receitas-conteudo {
+	padding: 1rem 2.5rem;
+	margin: auto;
+}
+
+.receitas-conteudo > h5 {
+	font-size: 1.25rem;
+	font-weight: normal;
+}
+
+.receitas-conteudo > a {
+	color: #FEFEFE;
+	padding: 0.5rem;
+	background-color: darkred;
+	border-radius: 0.25rem;
+}

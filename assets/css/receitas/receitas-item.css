@@ -1,0 +1,12 @@
+.receitas-item {
+	list-style-type: none;
+	display: inline-block;
+	width: 286px;
+	margin: 3rem 4.31rem;
+	background-color: #fefefe;
+	box-shadow: 0 0 0.2rem 0.2rem rgba(0, 0, 0, 0.1);
+}
+
+.receitas-item p {
+	font-size: 1rem;
+}
